@@ -27,3 +27,11 @@ This application uses a fake API, where JSON data is executed on the server side
 4. run the server with the command: ```bash npm run server ```
 5. if successfully run it will appear like this:
    ![screencapture-localhost-9000-questions-2024-07-03-14_59_13](https://github.com/Yogihafidh/The-React-Quiz/assets/100673796/62d69b59-fcf6-454f-9276-cf81ea8b3e8d)
+
+# Documentation
+![screencapture-vinayak9669-github-io-React-QuizApp-2025-04-26-20_49_12](https://github.com/user-attachments/assets/acf2c40d-5104-42a3-b4d1-23402ce45b8d)
+![screencapture-vinayak9669-github-io-React-QuizApp-2025-04-26-20_49_42](https://github.com/user-attachments/assets/f6b30266-9185-43c9-b04d-4d4d6414682d)
+![screencapture-vinayak9669-github-io-React-QuizApp-2025-04-26-20_50_49](https://github.com/user-attachments/assets/266c0956-fb7a-41a1-9901-3c68f7180bbd)
+
+
+
